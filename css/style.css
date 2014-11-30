@@ -474,6 +474,9 @@ ul{
 .site-logo{
 	margin:14px 0;
 }
+.LogoDynamic {
+    height: 100px;
+}
 .site-logo a{
 	font-size:40px;
 	position: relative;
